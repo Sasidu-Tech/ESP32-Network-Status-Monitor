@@ -1,6 +1,6 @@
 # 🌐 ESP32 Network Status Monitor
 
-![ESP32 Network Status Monitor](images/esp32-network-monitor.png)
+![ESP32 Network Status Monitor](images/ESP32-Network-Status-Monitor(2).jpeg)
 
 A simple ESP32-based network monitoring project designed to monitor Wi-Fi connection status, network configuration, signal strength, and Internet connectivity.
 
